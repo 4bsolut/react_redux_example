@@ -1,0 +1,11 @@
+.App {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+.custom_color {
+  background: #c62828;
+}
+main {
+  flex: 1 0 auto;
+}
